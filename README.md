@@ -1,7 +1,7 @@
 # Responsive Video Playlist
 <br>
 
-> see the project : 
+> see the project : https://vtkaue.github.io/Responsive-Video-Playlist/
 <br>
 
 ## :dart: About ##
